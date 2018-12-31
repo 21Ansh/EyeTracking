@@ -28,7 +28,7 @@ Here I am providing sample camera calibration file. If you want to calibrate you
 http://docs.opencv.org/2.4/doc/tutorials/calib3d/camera_calibration/camera_calibration.html
  
  
-![alt tag](https://github.com/21Ansh/EyeTracking/sample.png)
+![alt tag](https://github.com/21Ansh/EyeTracking/blob/master/sample.png)
 
 
 Test Video:-
